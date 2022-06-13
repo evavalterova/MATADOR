@@ -1,4 +1,4 @@
-MATADORMATADOR
+MATADOR
 =======
 
 The application enables automatic analysis of acquired image data from flood illumination adaptive optic camera.
