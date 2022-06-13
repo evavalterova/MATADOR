@@ -12,8 +12,7 @@ can be used freely for non-commercial research and medical purposes.
 Please cite the following publication when using the application:
 
 E. Valterova, J.D. Unterlauft, T. Kirsten, R. Kolar, F. G. Rauscher,
-“Comprehensive Automatic Processing and Analysis of Flood Illumination Retinal Images,”
-- submitted to Biomedical Optics Express in June 2022
+“Comprehensive Automatic Processing and Analysis of Flood Illumination Retinal Images,” - submitted to Biomedical Optics Express in June 2022
 
 DATA
 ----
