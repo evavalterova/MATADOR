@@ -11,9 +11,9 @@ The application was created in Matlab 2021b in Brno University of technology and
 can be used freely for non-commercial research and medical purposes. 
 Please cite the following publication when using the application:
 
-"E. Valterova, J.D. Unterlauft, T. Kirsten, R. Kolar, F. G. Rauscher,
+E. Valterova, J.D. Unterlauft, T. Kirsten, R. Kolar, F. G. Rauscher,
 “Comprehensive Automatic Processing and Analysis of Flood Illumination Retinal Images,”
-Biomed. Opt. Express.."
+- submitted to Biomedical Optics Express in June 2022
 
 DATA
 ----
@@ -34,7 +34,10 @@ https://www.mathworks.com/products/compiler/matlab-runtime.html
 USAGE
 -----
 
-1. Select the folder with AO-FIO images in ".png" format with no heading.
+1. Select the folder with AO-FIO images in ".png" format without header.
+   The application is addapted on output data of AO-FIO camera (rtx1, Imagine Eyes, Orsay, France)
+   with image file names including patient id, internal target position and depth. The patients name in the image file is optional.
+   The images incorporated on montage image could not be in different directories.
 2. Choose the analyzed eye (right or left) and the range of uploaded data by the slider. Then press the Load and Montage button.
 3. Set the Axial length of the eye.
    Choose the analyzing metric (photoreceptor's location, spacing or density).
