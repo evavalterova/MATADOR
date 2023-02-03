@@ -11,7 +11,7 @@ The application was created in Matlab 2021b in Brno University of technology and
 can be used freely for non-commercial research and medical purposes. 
 Please cite the following publication when using the application:
 
-E. Valterova, J.D. Unterlauft, M. Francke, T. Kirsten, R. Kolar, F. G. Rauscher, “Comprehensive Automatic Processing and Analysis of Adaptive Optics Flood Illumination Retinal Images,” - submitted to Biomedical Optics Express in July 2022
+Eva Valterova, Jan D. Unterlauft, Mike Francke, Toralf Kirsten, Radim Kolar, and Franziska G. Rauscher, "Comprehensive automatic processing and analysis of adaptive optics flood illumination retinal images on healthy subjects," Biomed. Opt. Express 14, 945-970 (2023)
 
 DATA
 ----
